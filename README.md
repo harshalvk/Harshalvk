@@ -14,7 +14,7 @@ currently deep into go, distributed systems.
 
 - go backends and distributed systems internals
 - ai & agents 
-- react/next.js
+- react/next.js/nodejs
 - web3 / solana when i get curious
 
 visite my portfolio - [harshalvk.com](https://harshalvk.com)
