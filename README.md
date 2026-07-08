@@ -1,3 +1,6 @@
+<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/ca81e485-9596-41ce-ba5e-1306de012a48" />
+
+
 ### Hey, I'm Harshal 
 Building things at the intersection of ai, backend systems, and developer tooling.
 currently deep into go, distributed systems.
