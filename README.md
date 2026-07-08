@@ -1,4 +1,4 @@
-<img width="1500" height="500" alt="banner" src="https://github.com/user-attachments/assets/ca81e485-9596-41ce-ba5e-1306de012a48" />
+<img width="3000" height="788" alt="image" src="https://github.com/user-attachments/assets/f57d2e53-f342-48e6-94c6-522f01b0a5f4" />
 
 
 ### Hey, I'm Harshal 
